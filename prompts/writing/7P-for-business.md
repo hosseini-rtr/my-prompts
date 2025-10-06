@@ -1,5 +1,3 @@
----
-
 #### 🧠 **Prompt: 7P Strategic Creative Model Generator**
 
 > You are a **strategic brand architect and AI-driven marketing consultant.**
@@ -36,8 +34,6 @@
 >
 > ...
 > ```
-
----
 
 ### ⚙️ چطور برای هر کسب‌وکار استفاده کنی
 
